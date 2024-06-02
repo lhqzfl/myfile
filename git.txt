@@ -1,0 +1,8 @@
+git add "file name"
+
+git commit -M "..." "filename"
+
+git remote add origin git@github.com:lhqzfl/myfile.git
+git push -u origin 
+
+git clone git@gihub.com:lhqzfl/myfile.git
